@@ -6,23 +6,23 @@
 	<dict>
 		<key>Headers/AWSCognitoIdentityProvider.h</key>
 		<data>
-		sjWHMeOaKhgmvtXZCc4cEp2DCLU=
+		NncCcSgtgUitrEQ+UDDze0S/cNg=
 		</data>
 		<key>Headers/AWSCognitoIdentityProviderModel.h</key>
 		<data>
-		xcoBxixr2g3pqnYOvHoHemR5l3s=
+		KuCmLzcqpgmpZ516e0lfAF2IbCE=
 		</data>
 		<key>Headers/AWSCognitoIdentityProviderResources.h</key>
 		<data>
-		aW7J1OghCz7zrzKVPOkJSarPEqE=
+		7+SmIVtyxL87qb7r9FLrM6tuijk=
 		</data>
 		<key>Headers/AWSCognitoIdentityProviderService.h</key>
 		<data>
-		sxzHLqRVPasSMBmNNTryJM6KhDw=
+		3KMEoNjpMvo+wd/5qmyA+VfiWvM=
 		</data>
 		<key>Headers/AWSCognitoIdentityUser.h</key>
 		<data>
-		jPd1vfAfUId6pdzs87W34LFVBh0=
+		dOYG1VN5yE0BEp1gn0p55OhQxKM=
 		</data>
 		<key>Headers/AWSCognitoIdentityUserPool.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zUnqtBx8KranUm7ltJ1/W5UlpxQ=
+		Ww4Bh0qENAI4ieSO4eFw+u0VAy4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,55 +43,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sjWHMeOaKhgmvtXZCc4cEp2DCLU=
+			NncCcSgtgUitrEQ+UDDze0S/cNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			JAx+ZAHVcyHOdSvlU0eFPNih/UyKp/9a+PEOr51lzkM=
+			0MIMgeN4E1WRQbeQJOmf0CpI8N5AEK5G3ixwguvdQ1U=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityProviderModel.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xcoBxixr2g3pqnYOvHoHemR5l3s=
+			KuCmLzcqpgmpZ516e0lfAF2IbCE=
 			</data>
 			<key>hash2</key>
 			<data>
-			2W2riPXzyq+spNEtaxLQMiZltiVj8I66MfUvRzedi9Q=
+			VHobLU2WRlo+tKb4Gou2BC6qkM8epQI4Wh/23YItMao=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityProviderResources.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aW7J1OghCz7zrzKVPOkJSarPEqE=
+			7+SmIVtyxL87qb7r9FLrM6tuijk=
 			</data>
 			<key>hash2</key>
 			<data>
-			nFslx68+Yn/eoLmLs0lu9ZwKpnY3E7hvcZWXArK2sIg=
+			Y6WFp1mEiiiVFRQSNCRQ2ez3Xtt8Diad4WoR8xHgbhk=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityProviderService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sxzHLqRVPasSMBmNNTryJM6KhDw=
+			3KMEoNjpMvo+wd/5qmyA+VfiWvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			tA2gFomNCvlYlPRE12AjhJ/YCuhwPrf6G5xLErTPc4s=
+			00ff+9w7SpiMpaXnwWaz1/QQ0W4oncVLUETTi2926Ss=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityUser.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jPd1vfAfUId6pdzs87W34LFVBh0=
+			dOYG1VN5yE0BEp1gn0p55OhQxKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			CTA4y1BYftDtvmGHv6F+eYEwSEcFt4pLJIqvkjixCfQ=
+			zyXWuD9/ZcE8Vm95WhOPuZPPqZYr+NjR0SDMbzMCQdU=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoIdentityUserPool.h</key>

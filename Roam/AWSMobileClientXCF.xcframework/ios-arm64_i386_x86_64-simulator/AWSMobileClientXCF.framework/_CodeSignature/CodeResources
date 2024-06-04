@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/AWSCognitoAuth.h</key>
 		<data>
-		MB+vXIdy/Wq5Ce6UXiZnBU9GkB0=
+		1TE/OJq8ib54m4P5d+lUptfu5bE=
 		</data>
 		<key>Headers/AWSCognitoCredentialsProvider+Extension.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/AWSMobileClientXCF-Swift.h</key>
 		<data>
-		ZR9bxaZRlWkoTPcPZomxqnK3JTw=
+		COgbnf/MPzEjOlHRNi67Uc1Dlb0=
 		</data>
 		<key>Headers/AWSMobileClientXCF.h</key>
 		<data>
@@ -34,79 +34,79 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		D3DSA5iQjIJhx2jZUqk0IuP/1C0=
+		7lv4FVVfBS7Mfla2pRYj+8m++q4=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		+4Tyx5Kj39Tcck2KRa5ktNmcS+E=
+		q2+9aL5eLLRqjooh4nWH4hEN8+U=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qhlbEpEBWgb0DcyXGHtFJh4eX4I=
+		nOSTL0eEwZg1gleh2kaXdaSUODY=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4hM29cbJCoh67bOxeZyUPLElB0I=
+		ION+zUMvBZSqnyvCGlLSzSrpaPQ=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		+4Tyx5Kj39Tcck2KRa5ktNmcS+E=
+		q2+9aL5eLLRqjooh4nWH4hEN8+U=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		qhlbEpEBWgb0DcyXGHtFJh4eX4I=
+		nOSTL0eEwZg1gleh2kaXdaSUODY=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		4hM29cbJCoh67bOxeZyUPLElB0I=
+		ION+zUMvBZSqnyvCGlLSzSrpaPQ=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yhrOCWyX4Wr6sn7G/CXlDsuOOxg=
+		dLGuWQhN+2KQLVETybk1yBBcwOw=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mIaAAzvYB3De3YLYUAzY0/uoPkI=
+		pGcUG8g2YP04njGe5o/mpZ/c2+Q=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0tPMtMdE/KA9wT35o5teS7uhkH4=
+		A5Nl+7xguFZM3BiUc56BJ8OA0Bk=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386.swiftdoc</key>
 		<data>
-		yhrOCWyX4Wr6sn7G/CXlDsuOOxg=
+		dLGuWQhN+2KQLVETybk1yBBcwOw=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386.swiftinterface</key>
 		<data>
-		mIaAAzvYB3De3YLYUAzY0/uoPkI=
+		pGcUG8g2YP04njGe5o/mpZ/c2+Q=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386.swiftmodule</key>
 		<data>
-		0tPMtMdE/KA9wT35o5teS7uhkH4=
+		A5Nl+7xguFZM3BiUc56BJ8OA0Bk=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9cPki+YDmIiKBxKvAQAkdUA3Gkk=
+		e6HvdfiS4fRjE2eqOn8jquCn7uQ=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bSCYL56nsSiut6EGCTZI7yroPcg=
+		vd0zJLy9elxT7BlVTgFTSBRqHck=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MyKqD5WzGDtEiVkR/94gkb+EraM=
+		uMNtSkQC/oJDjkqXuN9sobkYoZE=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		9cPki+YDmIiKBxKvAQAkdUA3Gkk=
+		e6HvdfiS4fRjE2eqOn8jquCn7uQ=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		bSCYL56nsSiut6EGCTZI7yroPcg=
+		vd0zJLy9elxT7BlVTgFTSBRqHck=
 		</data>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		MyKqD5WzGDtEiVkR/94gkb+EraM=
+		uMNtSkQC/oJDjkqXuN9sobkYoZE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -130,11 +130,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MB+vXIdy/Wq5Ce6UXiZnBU9GkB0=
+			1TE/OJq8ib54m4P5d+lUptfu5bE=
 			</data>
 			<key>hash2</key>
 			<data>
-			j7AEgVD+uTZFfXW6r36Sd3iN+513AcYrc3tHPqis3UU=
+			4/KRTJtrhtqBjE5xXXwIWP4VXpeBCxCN/mhyZplxfVU=
 			</data>
 		</dict>
 		<key>Headers/AWSCognitoCredentialsProvider+Extension.h</key>
@@ -163,11 +163,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZR9bxaZRlWkoTPcPZomxqnK3JTw=
+			COgbnf/MPzEjOlHRNi67Uc1Dlb0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ehoguLDSl5eP6RWGVobAx10gBaNlSz5eE4Z6Aq1LXew=
+			PKFrKo9eRWPJj4Qhw6MTqZFgIZLxMb2GagjijY/KO5Q=
 			</data>
 		</dict>
 		<key>Headers/AWSMobileClientXCF.h</key>
@@ -196,198 +196,198 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+4Tyx5Kj39Tcck2KRa5ktNmcS+E=
+			q2+9aL5eLLRqjooh4nWH4hEN8+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			mQS0BmmehpXyZNzDXqW3mYuC9ctzh15NphBUZmHgGEA=
+			/mRIdbVdYyuIzT7JGyOv8QhngoMvO8n/YoOyRV8cu10=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qhlbEpEBWgb0DcyXGHtFJh4eX4I=
+			nOSTL0eEwZg1gleh2kaXdaSUODY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gKtpq01Ye7oj+Lj+hnoevcDxrdaJZUxh1kjVWy01eu0=
+			JAlhf+XRvtkLdEEhTiaeipQckwrO92gr/uLE7LE72oA=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4hM29cbJCoh67bOxeZyUPLElB0I=
+			ION+zUMvBZSqnyvCGlLSzSrpaPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bmQ0RLvbhQFhH5UXTPwO0zrkvYtDwrUKBnh42bKGDLo=
+			bZyD0Lfe7mp+DukjmDxPZiHZ7SzSIP7mTHCaR5tuC9A=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+4Tyx5Kj39Tcck2KRa5ktNmcS+E=
+			q2+9aL5eLLRqjooh4nWH4hEN8+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			mQS0BmmehpXyZNzDXqW3mYuC9ctzh15NphBUZmHgGEA=
+			/mRIdbVdYyuIzT7JGyOv8QhngoMvO8n/YoOyRV8cu10=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qhlbEpEBWgb0DcyXGHtFJh4eX4I=
+			nOSTL0eEwZg1gleh2kaXdaSUODY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gKtpq01Ye7oj+Lj+hnoevcDxrdaJZUxh1kjVWy01eu0=
+			JAlhf+XRvtkLdEEhTiaeipQckwrO92gr/uLE7LE72oA=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4hM29cbJCoh67bOxeZyUPLElB0I=
+			ION+zUMvBZSqnyvCGlLSzSrpaPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bmQ0RLvbhQFhH5UXTPwO0zrkvYtDwrUKBnh42bKGDLo=
+			bZyD0Lfe7mp+DukjmDxPZiHZ7SzSIP7mTHCaR5tuC9A=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yhrOCWyX4Wr6sn7G/CXlDsuOOxg=
+			dLGuWQhN+2KQLVETybk1yBBcwOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qa2uvJh3M4+dMADvPZS+pFDEkjzJS0aBXztltwcpWEg=
+			E9oONScnwZKpI89gX6Pwk101qkq9SwjAwNoRD39LIfY=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mIaAAzvYB3De3YLYUAzY0/uoPkI=
+			pGcUG8g2YP04njGe5o/mpZ/c2+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			dQK9mIo4UMANxeXRDeHILjE+oerLoYgFhFcYJneSP4E=
+			dPwZB6cRVwksGHxaTT4+NRm1v/SBAk5RxQqkkg1RkYs=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0tPMtMdE/KA9wT35o5teS7uhkH4=
+			A5Nl+7xguFZM3BiUc56BJ8OA0Bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uzF0CfA7iKXE0VurEMfSGlNNOEsNAO/FHiNjfAgGwk4=
+			NI5GApwAUBjG6o9AHCS24K0TKqJXP9fFTy9n1x4ndtE=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yhrOCWyX4Wr6sn7G/CXlDsuOOxg=
+			dLGuWQhN+2KQLVETybk1yBBcwOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qa2uvJh3M4+dMADvPZS+pFDEkjzJS0aBXztltwcpWEg=
+			E9oONScnwZKpI89gX6Pwk101qkq9SwjAwNoRD39LIfY=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mIaAAzvYB3De3YLYUAzY0/uoPkI=
+			pGcUG8g2YP04njGe5o/mpZ/c2+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			dQK9mIo4UMANxeXRDeHILjE+oerLoYgFhFcYJneSP4E=
+			dPwZB6cRVwksGHxaTT4+NRm1v/SBAk5RxQqkkg1RkYs=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0tPMtMdE/KA9wT35o5teS7uhkH4=
+			A5Nl+7xguFZM3BiUc56BJ8OA0Bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uzF0CfA7iKXE0VurEMfSGlNNOEsNAO/FHiNjfAgGwk4=
+			NI5GApwAUBjG6o9AHCS24K0TKqJXP9fFTy9n1x4ndtE=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9cPki+YDmIiKBxKvAQAkdUA3Gkk=
+			e6HvdfiS4fRjE2eqOn8jquCn7uQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			v6UDvo8JlX0zJZIjlf2PnfjJF0H+c2FQgLzjkIDBDGM=
+			cQlHQJm+Wp8EHMD+Pcygvzj8gfpxyqZAFOQCa0fkBk4=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bSCYL56nsSiut6EGCTZI7yroPcg=
+			vd0zJLy9elxT7BlVTgFTSBRqHck=
 			</data>
 			<key>hash2</key>
 			<data>
-			aTnO8vokwbS6iIh67tcEMhBLY57c4Au2rpj9sRs3Dc0=
+			vWFxQ9YGOJnn2CCz80aaXZ7KHiFG8pgB6f99J+HdkTs=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MyKqD5WzGDtEiVkR/94gkb+EraM=
+			uMNtSkQC/oJDjkqXuN9sobkYoZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			BNYA+two2p26WlYIuteRqLJUT8ZTBvjrNF+qgLHA9Tw=
+			LY0b46P7b2v7sYrng5UFFMpdnirj7jAZ7LaFINxN9MA=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9cPki+YDmIiKBxKvAQAkdUA3Gkk=
+			e6HvdfiS4fRjE2eqOn8jquCn7uQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			v6UDvo8JlX0zJZIjlf2PnfjJF0H+c2FQgLzjkIDBDGM=
+			cQlHQJm+Wp8EHMD+Pcygvzj8gfpxyqZAFOQCa0fkBk4=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bSCYL56nsSiut6EGCTZI7yroPcg=
+			vd0zJLy9elxT7BlVTgFTSBRqHck=
 			</data>
 			<key>hash2</key>
 			<data>
-			aTnO8vokwbS6iIh67tcEMhBLY57c4Au2rpj9sRs3Dc0=
+			vWFxQ9YGOJnn2CCz80aaXZ7KHiFG8pgB6f99J+HdkTs=
 			</data>
 		</dict>
 		<key>Modules/AWSMobileClientXCF.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MyKqD5WzGDtEiVkR/94gkb+EraM=
+			uMNtSkQC/oJDjkqXuN9sobkYoZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			BNYA+two2p26WlYIuteRqLJUT8ZTBvjrNF+qgLHA9Tw=
+			LY0b46P7b2v7sYrng5UFFMpdnirj7jAZ7LaFINxN9MA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
