@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.social_media_url      = 'https://twitter.com/roam_ai'
   s.author                = { 'Roam B.V' => 'support@roam.ai' }
   s.platform              = :ios
-  s.source                = { :git => 'https://github.com/roam-ai/roam-ios.git', :tag => s.version.to_s }
+  s.source                = { :git => 'https://github.com/quyhic/roam-ios.git' }
   s.vendored_frameworks   = 'Roam/Roam.xcframework','Roam/AWSAuthCore.xcframework', 'Roam/AWSCognitoIdentityProvider.xcframework', 'Roam/AWSCognitoIdentityProviderASF.xcframework', 'Roam/AWSCore.xcframework','Roam/AWSIoT.xcframework','Roam/AWSMobileClientXCF.xcframework'
   s.preserve_path         = 'Roam/*'
   s.module_name           = 'Roam'
