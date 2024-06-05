@@ -86,8 +86,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate,UNUserNotificationCenterDe
         AppUtility.saveLocationToLocal(location)
         nc.post(name: Notification.Name("UserLoggedIn"), object: nil)
     }
-
-    func onReceiveTrip(_ tripStatus: [RoamTripStatus]) {
+    
+    
+    private func didReceiveTripStatus(_ tripStatus: RoamTripStatusListener) {
         nc.post(name: Notification.Name("tripStatus"), object: nil, userInfo: ["trip":tripStatus])
     }
 

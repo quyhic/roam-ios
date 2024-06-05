@@ -1,16 +1,16 @@
 PODS:
-  - roam-ios (0.1.19)
+  - roam-ios (0.0.32)
 
 DEPENDENCIES:
-  - roam-ios (= 0.1.19)
+  - roam-ios (= 0.0.32)
 
 SPEC REPOS:
   trunk:
     - roam-ios
 
 SPEC CHECKSUMS:
-  roam-ios: e8cc71be97df8260d03167603e526f86f19c568d
+  roam-ios: ad843d07aa1d29ade783a4dcd55279a9288e09b1
 
-PODFILE CHECKSUM: 5eef1278384446f2ebcc1290727440152be59e62
+PODFILE CHECKSUM: 7bbf763490701e7d83b3a9c79a0127979335c119
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.11.3
